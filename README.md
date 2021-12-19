@@ -1,4 +1,5 @@
 # unity-incremental-game
+2017.11 ~ 2018.01
 
 - 플레이 화면 1
 
